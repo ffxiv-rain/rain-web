@@ -1,0 +1,11 @@
+{
+    "include": [
+        "src/*",
+        "src/styles.d.ts"
+    ],
+    "compilerOptions": {
+        "target": "es5",
+        "jsx": "react-jsx",
+        "allowSyntheticDefaultImports": true
+    }
+}
